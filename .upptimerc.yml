@@ -3,8 +3,6 @@ owner: touguy # Your GitHub organization or username, where this repository live
 repo: uptime # The name of this repository
 
 sites:
-  - name: TI-Home
-    url: https://hanati.co.kr/
   - name: HIT
     url: https://hit.hanati.co.kr/
     __dangerous__insecure: true
@@ -17,6 +15,8 @@ sites:
     url: https://hana-aamc.com/
   - name: ASP-Webmail
     url: https://hmail.hanafn.com/
+  - name: TI-Home
+    url: https://hanati.co.kr/
   - name: TI-DHR
     url: https://dhr.hanati.co.kr/
     __dangerous__insecure: true
