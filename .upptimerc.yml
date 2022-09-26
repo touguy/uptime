@@ -10,6 +10,7 @@ sites:
     __dangerous__insecure: true
   - name: OneQOn
     url: https://oneqon.hanati.co.kr/
+    __dangerous__insecure: true
   - name: Trust
     url: https://www.hanatrust.com/
   - name: AAMC
@@ -18,8 +19,10 @@ sites:
     url: https://hmail.hanafn.com/
   - name: TI-DHR
     url: https://dhr.hanati.co.kr/
+    __dangerous__insecure: true
   - name: TI-ePos
     url: https://tipartner.hanati.co.kr/
+    __dangerous__insecure: true
   - name: Grooteogi
     url: https://www.stump.or.kr/
 
