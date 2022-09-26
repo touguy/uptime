@@ -41,11 +41,11 @@
     "icon": "https://favicons.githubusercontent.com/oneqon.hanati.co.kr",
     "slug": "one-q-on",
     "status": "up",
-    "uptime": "2.12%",
-    "uptimeDay": "2.12%",
-    "uptimeWeek": "2.12%",
-    "uptimeMonth": "2.12%",
-    "uptimeYear": "2.12%",
+    "uptime": "3.45%",
+    "uptimeDay": "3.45%",
+    "uptimeWeek": "3.45%",
+    "uptimeMonth": "3.45%",
+    "uptimeYear": "3.45%",
     "time": 1377,
     "timeDay": 1377,
     "timeWeek": 1377,
@@ -115,19 +115,17 @@
     "icon": "https://favicons.githubusercontent.com/dhr.hanati.co.kr",
     "slug": "ti-dhr",
     "status": "up",
-    "uptime": "1.52%",
-    "uptimeDay": "1.52%",
-    "uptimeWeek": "1.52%",
-    "uptimeMonth": "1.52%",
-    "uptimeYear": "1.52%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1032,
     "timeDay": 1032,
     "timeWeek": 1032,
     "timeMonth": 1032,
     "timeYear": 1032,
-    "dailyMinutesDown": {
-      "2022-09-26": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TI-ePos",
@@ -135,19 +133,17 @@
     "icon": "https://favicons.githubusercontent.com/tipartner.hanati.co.kr",
     "slug": "ti-e-pos",
     "status": "up",
-    "uptime": "1.17%",
-    "uptimeDay": "1.17%",
-    "uptimeWeek": "1.17%",
-    "uptimeMonth": "1.17%",
-    "uptimeYear": "1.17%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 789,
     "timeDay": 789,
     "timeWeek": 789,
     "timeMonth": 789,
     "timeYear": 789,
-    "dailyMinutesDown": {
-      "2022-09-26": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Grooteogi",
