@@ -7,6 +7,7 @@ sites:
     url: https://hanati.co.kr/
   - name: HIT
     url: https://hit.hanati.co.kr/
+    __dangerous__insecure: true
   - name: OneQOn
     url: https://oneqon.hanati.co.kr/
   - name: Trust
