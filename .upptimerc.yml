@@ -3,14 +3,24 @@ owner: touguy # Your GitHub organization or username, where this repository live
 repo: uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: TI-Home
+    url: https://hanati.co.kr/
+  - name: HIT
+    url: https://hit.hanati.co.kr/
+  - name: OneQOn
+    url: https://oneqon.hanati.co.kr/
+  - name: Trust
+    url: https://www.hanatrust.com/
+  - name: AAMC
+    url: https://hana-aamc.com/
+  - name: ASP-Webmail
+    url: https://hmail.hanafn.com/
+  - name: TI-DHR
+    url: https://dhr.hanati.co.kr/
+  - name: TI-ePos
+    url: https://tipartner.hanati.co.kr/
+  - name: Grooteogi
+    url: https://www.stump.or.kr/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -19,13 +29,15 @@ status-website:
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime
-  introTitle: "**Upptime!!!3** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**HanaTI-MSP**'s Uptime"
+  introMessage: Check Out pages
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Wiki
+      href: https://mwr21.ml/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
