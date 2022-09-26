@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/hit.hanati.co.kr",
     "slug": "hit",
     "status": "up",
-    "uptime": "2.12%",
-    "uptimeDay": "2.12%",
-    "uptimeWeek": "2.12%",
-    "uptimeMonth": "2.12%",
-    "uptimeYear": "2.12%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1475,
     "timeDay": 1475,
     "timeWeek": 1475,
     "timeMonth": 1475,
     "timeYear": 1475,
-    "dailyMinutesDown": {
-      "2022-09-26": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "OneQOn",
@@ -117,18 +115,18 @@
     "icon": "https://favicons.githubusercontent.com/dhr.hanati.co.kr",
     "slug": "ti-dhr",
     "status": "down",
-    "uptime": "0.40%",
-    "uptimeDay": "0.40%",
-    "uptimeWeek": "0.40%",
-    "uptimeMonth": "0.40%",
-    "uptimeYear": "0.40%",
+    "uptime": "0.39%",
+    "uptimeDay": "0.39%",
+    "uptimeWeek": "0.39%",
+    "uptimeMonth": "0.39%",
+    "uptimeYear": "0.39%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-26": 12
+      "2022-09-26": 13
     }
   },
   {
@@ -148,7 +146,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-26": 12
+      "2022-09-26": 13
     }
   },
   {
