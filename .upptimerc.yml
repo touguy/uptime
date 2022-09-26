@@ -3,15 +3,15 @@ owner: touguy # Your GitHub organization or username, where this repository live
 repo: uptime # The name of this repository
 
 sites:
-  - name: HIT
+  - name: MSP-HIT
     url: https://hit.hanati.co.kr/
     __dangerous__insecure: true
-  - name: OneQOn
+  - name: MSP-OneQOn
     url: https://oneqon.hanati.co.kr/
     __dangerous__insecure: true
-  - name: Trust
+  - name: MSP-Trust
     url: https://www.hanatrust.com/
-  - name: AAMC
+  - name: MSP-AAMC
     url: https://hana-aamc.com/
   - name: ASP-Webmail
     url: https://hmail.hanafn.com/
