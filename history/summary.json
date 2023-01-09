@@ -112,9 +112,9 @@
     "url": "https://hanati.co.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/hanati.co.kr.ico",
     "slug": "ti-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -124,6 +124,7 @@
     "timeMonth": 1074,
     "timeYear": 1105,
     "dailyMinutesDown": {
+      "2023-01-09": 0,
       "2022-10-16": 81,
       "2022-10-15": 4
     }
