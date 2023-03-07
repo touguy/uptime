@@ -69,10 +69,10 @@
     "url": "https://hana-aamc.com/",
     "icon": "https://icons.duckduckgo.com/ip3/hana-aamc.com.ico",
     "slug": "msp-aamc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.83%",
     "time": 2088,
@@ -81,6 +81,7 @@
     "timeMonth": 1850,
     "timeYear": 2088,
     "dailyMinutesDown": {
+      "2023-03-07": 2,
       "2023-02-13": 55,
       "2023-02-07": 32,
       "2023-01-12": 47,
@@ -97,9 +98,9 @@
     "url": "https://hmail.hanafn.com/",
     "icon": "https://icons.duckduckgo.com/ip3/hmail.hanafn.com.ico",
     "slug": "asp-webmail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -109,6 +110,7 @@
     "timeMonth": 1744,
     "timeYear": 1695,
     "dailyMinutesDown": {
+      "2023-03-07": 0,
       "2022-11-06": 118
     }
   },
