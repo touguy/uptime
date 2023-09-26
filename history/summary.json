@@ -6,16 +6,17 @@
     "slug": "msp-hit",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.81%",
     "time": 1786,
-    "timeDay": 2008,
+    "timeDay": 2011,
     "timeWeek": 2346,
     "timeMonth": 2077,
     "timeYear": 1786,
     "dailyMinutesDown": {
+      "2023-09-26": 1,
       "2023-09-21": 32,
       "2023-09-20": 18,
       "2023-09-10": 35,
@@ -88,7 +89,7 @@
     "timeDay": 2294,
     "timeWeek": 2024,
     "timeMonth": 2055,
-    "timeYear": 2152,
+    "timeYear": 2153,
     "dailyMinutesDown": {
       "2023-09-21": 22,
       "2023-09-20": 17,
@@ -121,7 +122,7 @@
     "timeDay": 1846,
     "timeWeek": 1914,
     "timeMonth": 1908,
-    "timeYear": 2014,
+    "timeYear": 2013,
     "dailyMinutesDown": {
       "2023-07-27": 59,
       "2023-06-25": 16,
@@ -156,7 +157,7 @@
     "timeDay": 2092,
     "timeWeek": 1822,
     "timeMonth": 1851,
-    "timeYear": 1758,
+    "timeYear": 1761,
     "dailyMinutesDown": {
       "2023-08-10": 145,
       "2023-05-20": 16,
@@ -208,7 +209,7 @@
     "timeDay": 1742,
     "timeWeek": 1458,
     "timeMonth": 1400,
-    "timeYear": 1276,
+    "timeYear": 1277,
     "dailyMinutesDown": {
       "2023-09-20": 16,
       "2023-09-16": 580,
@@ -236,7 +237,7 @@
     "timeDay": 1336,
     "timeWeek": 1178,
     "timeMonth": 1149,
-    "timeYear": 1133,
+    "timeYear": 1135,
     "dailyMinutesDown": {
       "2023-08-19": 369,
       "2023-08-07": 15,
@@ -264,7 +265,7 @@
     "timeDay": 1141,
     "timeWeek": 1392,
     "timeMonth": 1510,
-    "timeYear": 1419,
+    "timeYear": 1420,
     "dailyMinutesDown": {}
   }
 ]
