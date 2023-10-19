@@ -4,9 +4,9 @@
     "url": "https://hit.hanati.co.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/hit.hanati.co.kr.ico",
     "slug": "msp-hit",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "98.80%",
     "uptimeYear": "99.73%",
@@ -16,6 +16,7 @@
     "timeMonth": 1865,
     "timeYear": 1779,
     "dailyMinutesDown": {
+      "2023-10-19": 0,
       "2023-10-17": 18,
       "2023-10-13": 15,
       "2023-10-07": 19,
@@ -179,7 +180,7 @@
     "time": 1141,
     "timeDay": 1243,
     "timeWeek": 1033,
-    "timeMonth": 1049,
+    "timeMonth": 1050,
     "timeYear": 1143,
     "dailyMinutesDown": {
       "2023-10-04": 16,
