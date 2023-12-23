@@ -276,9 +276,9 @@
     "url": "https://www.stump.or.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.stump.or.kr.ico",
     "slug": "grooteogi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.73%",
+    "uptimeDay": "98.71%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
@@ -288,6 +288,7 @@
     "timeMonth": 1456,
     "timeYear": 1414,
     "dailyMinutesDown": {
+      "2023-12-23": 0,
       "2023-12-22": 18
     }
   }
