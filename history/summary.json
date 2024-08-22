@@ -14,7 +14,7 @@
     "timeDay": 1787,
     "timeWeek": 1725,
     "timeMonth": 2161,
-    "timeYear": 1883,
+    "timeYear": 1885,
     "dailyMinutesDown": {
       "2024-08-14": 73,
       "2024-08-08": 32,
@@ -181,9 +181,9 @@
     "url": "https://hanati.co.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/hanati.co.kr.ico",
     "slug": "ti-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.80%",
@@ -193,6 +193,7 @@
     "timeMonth": 1416,
     "timeYear": 1160,
     "dailyMinutesDown": {
+      "2024-08-22": 0,
       "2024-08-14": 46,
       "2024-08-08": 76,
       "2024-08-07": 35,
