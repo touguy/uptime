@@ -208,18 +208,19 @@
     "url": "https://hanati.co.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/hanati.co.kr.ico",
     "slug": "ti-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.52%",
+    "uptimeMonth": "99.51%",
     "uptimeYear": "99.69%",
-    "time": 1413,
+    "time": 1414,
     "timeDay": 819,
     "timeWeek": 1302,
     "timeMonth": 1825,
     "timeYear": 1524,
     "dailyMinutesDown": {
+      "2025-02-13": 0,
       "2025-02-01": 168,
       "2025-01-15": 28,
       "2025-01-14": 17,
@@ -361,7 +362,7 @@
     "timeDay": 1345,
     "timeWeek": 1419,
     "timeMonth": 1324,
-    "timeYear": 1258,
+    "timeYear": 1257,
     "dailyMinutesDown": {}
   }
 ]
