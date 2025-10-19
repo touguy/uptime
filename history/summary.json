@@ -12,7 +12,7 @@
     "uptimeYear": "99.76%",
     "time": 2002,
     "timeDay": 1542,
-    "timeWeek": 1409,
+    "timeWeek": 1389,
     "timeMonth": 1471,
     "timeYear": 1850,
     "dailyMinutesDown": {
@@ -53,7 +53,7 @@
     "uptimeYear": "99.82%",
     "time": 2171,
     "timeDay": 1614,
-    "timeWeek": 1586,
+    "timeWeek": 1560,
     "timeMonth": 1488,
     "timeYear": 2002,
     "dailyMinutesDown": {
@@ -87,7 +87,7 @@
     "uptimeYear": "99.75%",
     "time": 2385,
     "timeDay": 2119,
-    "timeWeek": 3095,
+    "timeWeek": 3224,
     "timeMonth": 2435,
     "timeYear": 2245,
     "dailyMinutesDown": {
@@ -131,7 +131,7 @@
     "uptimeYear": "99.80%",
     "time": 1996,
     "timeDay": 1899,
-    "timeWeek": 1939,
+    "timeWeek": 1953,
     "timeMonth": 1939,
     "timeYear": 2058,
     "dailyMinutesDown": {
@@ -163,7 +163,7 @@
     "uptimeYear": "99.98%",
     "time": 2117,
     "timeDay": 2232,
-    "timeWeek": 2162,
+    "timeWeek": 2158,
     "timeMonth": 2056,
     "timeYear": 2115,
     "dailyMinutesDown": {
@@ -183,7 +183,7 @@
     "uptimeYear": "99.79%",
     "time": 1579,
     "timeDay": 1553,
-    "timeWeek": 1509,
+    "timeWeek": 1500,
     "timeMonth": 1469,
     "timeYear": 1484,
     "dailyMinutesDown": {
@@ -219,7 +219,7 @@
     "uptimeYear": "99.79%",
     "time": 1850,
     "timeDay": 1031,
-    "timeWeek": 1159,
+    "timeWeek": 1151,
     "timeMonth": 1092,
     "timeYear": 1520,
     "dailyMinutesDown": {
@@ -256,7 +256,7 @@
     "uptimeYear": "99.80%",
     "time": 1406,
     "timeDay": 719,
-    "timeWeek": 854,
+    "timeWeek": 873,
     "timeMonth": 805,
     "timeYear": 1243,
     "dailyMinutesDown": {
@@ -283,18 +283,19 @@
     "url": "https://www.stump.or.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.stump.or.kr.ico",
     "slug": "grooteogi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.69%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.98%",
-    "time": 1305,
+    "time": 1304,
     "timeDay": 1889,
-    "timeWeek": 1604,
+    "timeWeek": 1603,
     "timeMonth": 1498,
     "timeYear": 1321,
     "dailyMinutesDown": {
+      "2025-10-19": 0,
       "2025-10-12": 31,
       "2025-09-29": 19,
       "2025-09-17": 62
