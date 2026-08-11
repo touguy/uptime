@@ -4,15 +4,15 @@
     "url": "https://hit.hanati.co.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/hit.hanati.co.kr.ico",
     "slug": "msp-hit",
-    "status": "down",
+    "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "75.05%",
-    "uptimeWeek": "84.01%",
-    "uptimeMonth": "80.18%",
-    "uptimeYear": "97.99%",
-    "time": 1473,
-    "timeDay": 1531,
-    "timeWeek": 1499,
+    "uptimeDay": "73.34%",
+    "uptimeWeek": "83.17%",
+    "uptimeMonth": "79.98%",
+    "uptimeYear": "97.97%",
+    "time": 1472,
+    "timeDay": 1540,
+    "timeWeek": 1496,
     "timeMonth": 1388,
     "timeYear": 1385,
     "dailyMinutesDown": {
@@ -53,7 +53,7 @@
       "2026-08-08": 252,
       "2026-08-09": 164,
       "2026-08-10": 472,
-      "2026-08-11": 34
+      "2026-08-11": 118
     }
   },
   {
@@ -61,17 +61,17 @@
     "url": "https://oneqon.hanati.co.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/oneqon.hanati.co.kr.ico",
     "slug": "msp-one-q-on",
-    "status": "down",
+    "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "76.72%",
-    "uptimeWeek": "85.25%",
-    "uptimeMonth": "81.14%",
-    "uptimeYear": "98.08%",
+    "uptimeDay": "75.01%",
+    "uptimeWeek": "84.41%",
+    "uptimeMonth": "80.95%",
+    "uptimeYear": "98.06%",
     "time": 1838,
-    "timeDay": 2231,
-    "timeWeek": 2054,
+    "timeDay": 2190,
+    "timeWeek": 2056,
     "timeMonth": 2103,
-    "timeYear": 1810,
+    "timeYear": 1811,
     "dailyMinutesDown": {
       "2026-07-04": 77,
       "2026-07-05": 250,
@@ -110,7 +110,7 @@
       "2026-08-08": 217,
       "2026-08-09": 139,
       "2026-08-10": 448,
-      "2026-08-11": 29
+      "2026-08-11": 114
     }
   },
   {
@@ -118,16 +118,16 @@
     "url": "https://www.hanatrust.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.hanatrust.com.ico",
     "slug": "msp-trust",
-    "status": "down",
-    "uptime": "99.53%",
-    "uptimeDay": "78.39%",
-    "uptimeWeek": "86.49%",
-    "uptimeMonth": "82.11%",
-    "uptimeYear": "98.17%",
-    "time": 1816,
-    "timeDay": 1540,
-    "timeWeek": 1513,
-    "timeMonth": 1489,
+    "status": "up",
+    "uptime": "99.52%",
+    "uptimeDay": "76.67%",
+    "uptimeWeek": "85.66%",
+    "uptimeMonth": "81.92%",
+    "uptimeYear": "98.16%",
+    "time": 1815,
+    "timeDay": 1546,
+    "timeWeek": 1518,
+    "timeMonth": 1491,
     "timeYear": 1706,
     "dailyMinutesDown": {
       "2026-07-04": 67,
@@ -167,7 +167,7 @@
       "2026-08-08": 184,
       "2026-08-09": 117,
       "2026-08-10": 425,
-      "2026-08-11": 25
+      "2026-08-11": 109
     }
   },
   {
@@ -175,17 +175,17 @@
     "url": "https://hana-aamc.com/",
     "icon": "https://icons.duckduckgo.com/ip3/hana-aamc.com.ico",
     "slug": "msp-aamc",
-    "status": "down",
+    "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "80.06%",
-    "uptimeWeek": "87.73%",
-    "uptimeMonth": "83.07%",
-    "uptimeYear": "98.26%",
-    "time": 2093,
-    "timeDay": 1764,
-    "timeWeek": 1796,
-    "timeMonth": 1741,
-    "timeYear": 2051,
+    "uptimeDay": "78.34%",
+    "uptimeWeek": "86.90%",
+    "uptimeMonth": "82.88%",
+    "uptimeYear": "98.25%",
+    "time": 2095,
+    "timeDay": 2035,
+    "timeWeek": 1858,
+    "timeMonth": 1759,
+    "timeYear": 2054,
     "dailyMinutesDown": {
       "2026-07-04": 60,
       "2026-07-05": 229,
@@ -224,7 +224,7 @@
       "2026-08-08": 150,
       "2026-08-09": 93,
       "2026-08-10": 402,
-      "2026-08-11": 20
+      "2026-08-11": 104
     }
   },
   {
@@ -232,17 +232,17 @@
     "url": "https://hmail.hanafn.com/",
     "icon": "https://icons.duckduckgo.com/ip3/hmail.hanafn.com.ico",
     "slug": "asp-webmail",
-    "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "81.73%",
-    "uptimeWeek": "88.97%",
-    "uptimeMonth": "84.04%",
-    "uptimeYear": "98.36%",
-    "time": 2365,
-    "timeDay": 2500,
-    "timeWeek": 2859,
-    "timeMonth": 2796,
-    "timeYear": 2451,
+    "status": "up",
+    "uptime": "99.57%",
+    "uptimeDay": "80.01%",
+    "uptimeWeek": "88.13%",
+    "uptimeMonth": "83.85%",
+    "uptimeYear": "98.34%",
+    "time": 2370,
+    "timeDay": 2940,
+    "timeWeek": 2937,
+    "timeMonth": 2818,
+    "timeYear": 2456,
     "dailyMinutesDown": {
       "2026-07-04": 55,
       "2026-07-05": 215,
@@ -281,7 +281,7 @@
       "2026-08-08": 119,
       "2026-08-09": 69,
       "2026-08-10": 377,
-      "2026-08-11": 15
+      "2026-08-11": 99
     }
   },
   {
@@ -289,16 +289,16 @@
     "url": "https://hanati.co.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/hanati.co.kr.ico",
     "slug": "ti-home",
-    "status": "down",
+    "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "84.23%",
-    "uptimeWeek": "91.83%",
-    "uptimeMonth": "85.48%",
-    "uptimeYear": "98.06%",
-    "time": 1379,
-    "timeDay": 1315,
-    "timeWeek": 1296,
-    "timeMonth": 1308,
+    "uptimeDay": "82.51%",
+    "uptimeWeek": "91.00%",
+    "uptimeMonth": "85.29%",
+    "uptimeYear": "98.05%",
+    "time": 1380,
+    "timeDay": 1311,
+    "timeWeek": 1303,
+    "timeMonth": 1310,
     "timeYear": 1364,
     "dailyMinutesDown": {
       "2026-06-28": 202,
@@ -342,7 +342,7 @@
       "2026-08-07": 179,
       "2026-08-08": 16,
       "2026-08-10": 326,
-      "2026-08-11": 10
+      "2026-08-11": 94
     }
   },
   {
@@ -350,16 +350,16 @@
     "url": "https://dhr.hanati.co.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/dhr.hanati.co.kr.ico",
     "slug": "ti-dhr",
-    "status": "down",
+    "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "86.51%",
-    "uptimeWeek": "92.65%",
-    "uptimeMonth": "86.33%",
-    "uptimeYear": "98.14%",
+    "uptimeDay": "84.79%",
+    "uptimeWeek": "91.82%",
+    "uptimeMonth": "86.14%",
+    "uptimeYear": "98.12%",
     "time": 1191,
-    "timeDay": 1000,
-    "timeWeek": 979,
-    "timeMonth": 1017,
+    "timeDay": 1019,
+    "timeWeek": 984,
+    "timeMonth": 1018,
     "timeYear": 1082,
     "dailyMinutesDown": {
       "2026-06-27": 121,
@@ -403,7 +403,7 @@
       "2026-08-05": 221,
       "2026-08-07": 164,
       "2026-08-10": 293,
-      "2026-08-11": 5
+      "2026-08-11": 90
     }
   },
   {
@@ -411,16 +411,16 @@
     "url": "https://tipartner.hanati.co.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/tipartner.hanati.co.kr.ico",
     "slug": "ti-e-pos",
-    "status": "down",
-    "uptime": "99.54%",
-    "uptimeDay": "87.52%",
-    "uptimeWeek": "93.27%",
-    "uptimeMonth": "86.82%",
-    "uptimeYear": "98.20%",
+    "status": "up",
+    "uptime": "99.53%",
+    "uptimeDay": "85.80%",
+    "uptimeWeek": "92.44%",
+    "uptimeMonth": "86.63%",
+    "uptimeYear": "98.18%",
     "time": 907,
-    "timeDay": 801,
-    "timeWeek": 875,
-    "timeMonth": 813,
+    "timeDay": 802,
+    "timeWeek": 877,
+    "timeMonth": 814,
     "timeYear": 833,
     "dailyMinutesDown": {
       "2026-06-27": 168,
@@ -465,7 +465,7 @@
       "2026-08-05": 211,
       "2026-08-07": 135,
       "2026-08-10": 278,
-      "2026-08-11": 1
+      "2026-08-11": 85
     }
   },
   {
