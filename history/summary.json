@@ -231,16 +231,17 @@
     "slug": "ti-home",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "95.77%",
-    "uptimeWeek": "86.34%",
-    "uptimeMonth": "86.25%",
-    "uptimeYear": "98.34%",
+    "uptimeDay": "96.53%",
+    "uptimeWeek": "86.45%",
+    "uptimeMonth": "86.27%",
+    "uptimeYear": "98.33%",
     "time": 1358,
     "timeDay": 1195,
     "timeWeek": 1285,
     "timeMonth": 1293,
     "timeYear": 1362,
     "dailyMinutesDown": {
+      "2026-07-05": 44,
       "2026-07-07": 11,
       "2026-07-06": 26,
       "2026-07-08": 207,
@@ -278,8 +279,7 @@
       "2026-08-12": 259,
       "2026-08-13": 295,
       "2026-08-14": 263,
-      "2026-08-16": 50,
-      "2026-08-17": 11
+      "2026-08-16": 50
     }
   },
   {
@@ -288,18 +288,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dhr.hanati.co.kr.ico",
     "slug": "ti-dhr",
     "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "96.44%",
-    "uptimeWeek": "87.77%",
-    "uptimeMonth": "87.20%",
-    "uptimeYear": "98.39%",
+    "uptime": "99.58%",
+    "uptimeDay": "96.86%",
+    "uptimeWeek": "87.83%",
+    "uptimeMonth": "87.22%",
+    "uptimeYear": "98.38%",
     "time": 1138,
     "timeDay": 1024,
     "timeWeek": 1017,
     "timeMonth": 1007,
     "timeYear": 1078,
     "dailyMinutesDown": {
-      "2026-07-04": 45,
+      "2026-07-04": 137,
       "2026-07-05": 179,
       "2026-07-07": 11,
       "2026-07-06": 21,
@@ -337,8 +337,7 @@
       "2026-08-12": 230,
       "2026-08-13": 266,
       "2026-08-14": 238,
-      "2026-08-16": 45,
-      "2026-08-17": 6
+      "2026-08-16": 45
     }
   },
   {
@@ -348,17 +347,17 @@
     "slug": "ti-e-pos",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "97.11%",
-    "uptimeWeek": "89.40%",
+    "uptimeDay": "97.20%",
+    "uptimeWeek": "89.42%",
     "uptimeMonth": "87.88%",
-    "uptimeYear": "98.44%",
+    "uptimeYear": "98.43%",
     "time": 861,
     "timeDay": 774,
     "timeWeek": 803,
     "timeMonth": 807,
     "timeYear": 831,
     "dailyMinutesDown": {
-      "2026-07-03": 20,
+      "2026-07-03": 70,
       "2026-07-04": 183,
       "2026-07-05": 170,
       "2026-07-07": 11,
@@ -398,8 +397,7 @@
       "2026-08-12": 201,
       "2026-08-13": 224,
       "2026-08-14": 201,
-      "2026-08-16": 40,
-      "2026-08-17": 1
+      "2026-08-16": 40
     }
   },
   {
