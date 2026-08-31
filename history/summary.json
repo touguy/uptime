@@ -7,12 +7,12 @@
     "status": "down",
     "uptime": "99.73%",
     "uptimeDay": "62.89%",
-    "uptimeWeek": "83.19%",
-    "uptimeMonth": "87.49%",
-    "uptimeYear": "98.96%",
+    "uptimeWeek": "82.18%",
+    "uptimeMonth": "87.15%",
+    "uptimeYear": "98.93%",
     "time": 1439,
     "timeDay": 1235,
-    "timeWeek": 1321,
+    "timeWeek": 1336,
     "timeMonth": 1350,
     "timeYear": 1374,
     "dailyMinutesDown": {
@@ -33,7 +33,7 @@
       "2026-08-28": 35,
       "2026-08-29": 281,
       "2026-08-30": 493,
-      "2026-08-31": 107
+      "2026-08-31": 256
     }
   },
   {
@@ -44,12 +44,12 @@
     "status": "down",
     "uptime": "99.75%",
     "uptimeDay": "63.89%",
-    "uptimeWeek": "84.10%",
-    "uptimeMonth": "88.34%",
-    "uptimeYear": "99.03%",
+    "uptimeWeek": "83.03%",
+    "uptimeMonth": "88.00%",
+    "uptimeYear": "99.00%",
     "time": 1882,
     "timeDay": 2437,
-    "timeWeek": 2269,
+    "timeWeek": 2276,
     "timeMonth": 2105,
     "timeYear": 1884,
     "dailyMinutesDown": {
@@ -70,7 +70,7 @@
       "2026-08-28": 30,
       "2026-08-29": 276,
       "2026-08-30": 478,
-      "2026-08-31": 102
+      "2026-08-31": 251
     }
   },
   {
@@ -79,14 +79,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hanatrust.com.ico",
     "slug": "msp-trust",
     "status": "down",
-    "uptime": "99.78%",
+    "uptime": "99.77%",
     "uptimeDay": "64.89%",
-    "uptimeWeek": "85.01%",
-    "uptimeMonth": "89.44%",
-    "uptimeYear": "99.12%",
+    "uptimeWeek": "83.89%",
+    "uptimeMonth": "89.10%",
+    "uptimeYear": "99.09%",
     "time": 1753,
     "timeDay": 1309,
-    "timeWeek": 1599,
+    "timeWeek": 1600,
     "timeMonth": 1485,
     "timeYear": 1654,
     "dailyMinutesDown": {
@@ -107,7 +107,7 @@
       "2026-08-28": 26,
       "2026-08-29": 271,
       "2026-08-30": 464,
-      "2026-08-31": 97
+      "2026-08-31": 245
     }
   },
   {
@@ -116,14 +116,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/hana-aamc.com.ico",
     "slug": "msp-aamc",
     "status": "down",
-    "uptime": "99.80%",
+    "uptime": "99.79%",
     "uptimeDay": "65.89%",
-    "uptimeWeek": "85.91%",
-    "uptimeMonth": "90.54%",
-    "uptimeYear": "99.21%",
+    "uptimeWeek": "84.75%",
+    "uptimeMonth": "90.20%",
+    "uptimeYear": "99.18%",
     "time": 2042,
     "timeDay": 1848,
-    "timeWeek": 1848,
+    "timeWeek": 1864,
     "timeMonth": 1776,
     "timeYear": 2005,
     "dailyMinutesDown": {
@@ -144,7 +144,7 @@
       "2026-08-28": 21,
       "2026-08-29": 266,
       "2026-08-30": 454,
-      "2026-08-31": 87
+      "2026-08-31": 235
     }
   },
   {
@@ -155,12 +155,12 @@
     "status": "down",
     "uptime": "99.82%",
     "uptimeDay": "66.89%",
-    "uptimeWeek": "86.82%",
-    "uptimeMonth": "91.63%",
-    "uptimeYear": "99.30%",
+    "uptimeWeek": "85.61%",
+    "uptimeMonth": "91.29%",
+    "uptimeYear": "99.27%",
     "time": 2442,
     "timeDay": 2936,
-    "timeWeek": 2905,
+    "timeWeek": 2942,
     "timeMonth": 2791,
     "timeYear": 2508,
     "dailyMinutesDown": {
@@ -181,7 +181,7 @@
       "2026-08-28": 16,
       "2026-08-29": 261,
       "2026-08-30": 444,
-      "2026-08-31": 77
+      "2026-08-31": 226
     }
   },
   {
@@ -192,12 +192,12 @@
     "status": "down",
     "uptime": "99.65%",
     "uptimeDay": "67.90%",
-    "uptimeWeek": "88.28%",
-    "uptimeMonth": "89.66%",
-    "uptimeYear": "98.63%",
+    "uptimeWeek": "87.02%",
+    "uptimeMonth": "89.32%",
+    "uptimeYear": "98.60%",
     "time": 1363,
     "timeDay": 1309,
-    "timeWeek": 1331,
+    "timeWeek": 1344,
     "timeMonth": 1292,
     "timeYear": 1362,
     "dailyMinutesDown": {
@@ -239,7 +239,7 @@
       "2026-08-26": 41,
       "2026-08-29": 257,
       "2026-08-30": 435,
-      "2026-08-31": 68
+      "2026-08-31": 217
     }
   },
   {
@@ -248,14 +248,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/dhr.hanati.co.kr.ico",
     "slug": "ti-dhr",
     "status": "down",
-    "uptime": "99.63%",
+    "uptime": "99.62%",
     "uptimeDay": "68.90%",
-    "uptimeWeek": "89.22%",
-    "uptimeMonth": "90.40%",
-    "uptimeYear": "98.53%",
+    "uptimeWeek": "87.91%",
+    "uptimeMonth": "90.06%",
+    "uptimeYear": "98.50%",
     "time": 1154,
     "timeDay": 998,
-    "timeWeek": 1046,
+    "timeWeek": 1058,
     "timeMonth": 1009,
     "timeYear": 1069,
     "dailyMinutesDown": {
@@ -297,7 +297,7 @@
       "2026-08-26": 19,
       "2026-08-29": 252,
       "2026-08-30": 426,
-      "2026-08-31": 58
+      "2026-08-31": 207
     }
   },
   {
@@ -308,12 +308,12 @@
     "status": "down",
     "uptime": "99.61%",
     "uptimeDay": "69.91%",
-    "uptimeWeek": "90.05%",
-    "uptimeMonth": "91.32%",
-    "uptimeYear": "98.48%",
+    "uptimeWeek": "88.57%",
+    "uptimeMonth": "90.99%",
+    "uptimeYear": "98.46%",
     "time": 881,
     "timeDay": 780,
-    "timeWeek": 837,
+    "timeWeek": 846,
     "timeMonth": 814,
     "timeYear": 828,
     "dailyMinutesDown": {
@@ -358,7 +358,7 @@
       "2026-08-25": 183,
       "2026-08-29": 247,
       "2026-08-30": 416,
-      "2026-08-31": 49
+      "2026-08-31": 197
     }
   },
   {
