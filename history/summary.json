@@ -351,17 +351,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dhr.hanati.co.kr.ico",
     "slug": "ti-dhr",
     "status": "up",
-    "uptime": "99.46%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "87.59%",
-    "uptimeMonth": "83.18%",
-    "uptimeYear": "97.83%",
+    "uptime": "99.45%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "87.70%",
+    "uptimeMonth": "83.21%",
+    "uptimeYear": "97.80%",
     "time": 1111,
     "timeDay": 1142,
     "timeWeek": 984,
     "timeMonth": 992,
     "timeYear": 1060,
     "dailyMinutesDown": {
+      "2026-07-27": 136,
       "2026-07-28": 277,
       "2026-07-29": 330,
       "2026-07-31": 52,
@@ -409,8 +410,7 @@
       "2026-09-21": 164,
       "2026-09-23": 354,
       "2026-09-24": 1,
-      "2026-09-25": 40,
-      "2026-09-26": 10
+      "2026-09-25": 40
     }
   },
   {
@@ -420,17 +420,17 @@
     "slug": "ti-e-pos",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "87.88%",
-    "uptimeMonth": "83.61%",
-    "uptimeYear": "97.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "87.94%",
+    "uptimeMonth": "83.62%",
+    "uptimeYear": "97.80%",
     "time": 843,
     "timeDay": 967,
     "timeWeek": 764,
     "timeMonth": 789,
     "timeYear": 823,
     "dailyMinutesDown": {
-      "2026-07-25": 25,
+      "2026-07-25": 75,
       "2026-07-26": 108,
       "2026-07-27": 384,
       "2026-07-28": 267,
@@ -480,8 +480,7 @@
       "2026-09-21": 159,
       "2026-09-23": 344,
       "2026-09-24": 1,
-      "2026-09-25": 36,
-      "2026-09-26": 6
+      "2026-09-25": 36
     }
   },
   {
